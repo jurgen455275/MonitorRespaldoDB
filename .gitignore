@@ -1,4 +1,5 @@
 .sites-runtime/
-output/
 tmp/
-
+.codex-finalizer/
+Entrega_GestorEstrategiasRMAN.zip
+output/Presentacion_Gestor_Estrategias_RMAN.pptx
